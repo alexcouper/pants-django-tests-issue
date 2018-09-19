@@ -1,0 +1,6 @@
+*.pyc
+.pants.d
+.cache/
+.pants*
+*.pytest*
+.DS_Store
